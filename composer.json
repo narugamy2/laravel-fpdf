@@ -1,5 +1,5 @@
 {
-    "name": "codedge/laravel-fpdf",
+    "name": "narugamy2/laravel-fpdf",
     "description": "Laravel package to include Fpdf. It ships with Fpdf 1.86.",
     "license": "MIT",
     "keywords": [
